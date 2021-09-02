@@ -1,6 +1,6 @@
 Image Processing Course
 1. Image Basics
-2.Fundamental Image Functions
+2. Fundamental Image Functions
 	- scale, crop, +,-, drawing, text
 3. Color Spaces
 	- gray scale, hsv, etc.
